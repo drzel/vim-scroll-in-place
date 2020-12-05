@@ -1,6 +1,6 @@
 # scroll_in_place
 
-Use <kbd><CTRL></kbd><kbd><J></kbd> and <kbd><CTRL></kbd><kbd><K></kbd> to
+Use <kbd>CTRL</kbd><kbd>J</kbd> and <kbd>CTRL</kbd><kbd>K</kbd> to
 scroll up and down one line while keeping the cursorline in place.
 
 
@@ -16,5 +16,5 @@ Install with a plugin manager.
 
 ## Usage
 
-Binds <kbd><CTRL></kbd><kbd><J></kbd> and <kbd><CTRL></kbd><kbd><J></kbd> to up
+Binds <kbd>CTRL</kbd><kbd>J</kbd> and <kbd>CTRL</kbd><kbd>K</kbd> to up
 and down.
