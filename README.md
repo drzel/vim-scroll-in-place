@@ -1,4 +1,4 @@
-# scroll_in_place
+# vim-scroll-in-place
 
 Use <kbd>CTRL</kbd><kbd>J</kbd> and <kbd>CTRL</kbd><kbd>K</kbd> to
 scroll up and down one line while keeping the cursorline in place.
