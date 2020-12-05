@@ -2,6 +2,8 @@ scriptencoding utf-8
 
 " vim-scroll-in-place
 " Forked from Andrew Pimlott's https://vim.fandom.com/wiki/Combining_move_and_scroll
+" Version: 0.1
+" Author: Sheldon Johnson
 
 if exists('g:loaded_scroll_in_place') || &compatible
   finish
